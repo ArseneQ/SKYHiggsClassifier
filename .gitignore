@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and environments
+*.log
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Node.js
+node_modules/
+
+# Compiled files
+*.o
+*.class
+*.so
+*.exe
+build/
+dist/
+
+MLflow
+mlruns/
+
+4lep/
+
+*.pth
+
+*.pkl
+
+*.csv
